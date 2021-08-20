@@ -3,7 +3,9 @@
 1. Установка
 pip install -r requirements.txt
 Также устанавливаем docker image mongo.
+
 Запускаем контейнер командой docker run -d -p 27017:27017 mongo
+
 Создаем бд product.
 
 2. Запуск
